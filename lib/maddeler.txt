@@ -1,0 +1,3 @@
+1 - sayfada birden fazla data var, ama bir tane state var
+2 - değişkenlerin blocta tutulması -> state
+3 - blocprovider'ın yanlış kullanımı -> daha iyi bi kullanımı var
